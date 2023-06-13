@@ -1,26 +1,3 @@
-`timescale 1ns / 1ps
-// Zeynep Deniz Gündoðan 040190382
-//Fatmagül Ýlker 150200088
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 13.03.2023 13:18:41
-// Design Name: 
-// Module Name: Modules
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
 
 module and_gate(A, B, O  );
 input wire A;
